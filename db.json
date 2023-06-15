@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "name": "Joey Bins",
+      "id": 1
+    },
+    {
+      "name": "Cornelius Graham",
+      "id": 2
+    },
+    {
+      "name": "Margarita Hoppe Jr.",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Unbranded Plastic Shirt",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Metal Shoes",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6305293803716608",
+      "id": 1
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5627331185999872",
+      "id": 2
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7565756856270848",
+      "id": 3
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/640/480/abstract?lock=6224892676538368",
+      "id": 4
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/640/480/abstract?lock=5085766617137152",
+      "id": 5
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/640/480/abstract?lock=5292927211274240",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480/abstract?lock=6341976859344896",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480/abstract?lock=2229222433095680",
+      "id": 9
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480/abstract?lock=8187866670694400",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480/abstract?lock=193379400941568",
+      "id": 11
+    }
+  ]
+}
