@@ -8,7 +8,7 @@ This React-Redux app allows the user to add users, albums, photos as well as del
 
 Here is an image of the app:
 
-![Overview](images/overview.PNG)
+![Overview](images/Overview.PNG)
 
 ## Dependencies
 
